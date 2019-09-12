@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Landing Page</title>
+</head>
+<body>
+<h1>Danielle Polk</h1>
+<ul>
+  <li>My Blog</li>
+  <li>My GitHub</li>
+</ul>
+</body>
+</html>
